@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @CommanderOG
 - 👀 I’m interested in Ethics of programming
-- 🌱 I’m currently learning python and ethical hacking 
-- 💞️ I’m looking to collaborate on paid projects for 11th or 12th
-- 📫 To reach me, dm me on zeroo._.000 (instagram)
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on projects for 11th or 12th
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Nothing is trash
 
